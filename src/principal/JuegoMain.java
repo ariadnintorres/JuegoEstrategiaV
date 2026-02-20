@@ -6,8 +6,6 @@ public class JuegoMain {
         JuegoDeEstrategia juego = new JuegoDeEstrategia(8, 8);
         juego.iniciarPartida();
     }
-    //mejoras
-    //herencia
-    //static
-    //orden de los constructores...
-  }
+}
+
+
